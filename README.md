@@ -1,1 +1,1 @@
-GWAS analysis for STAT3306 assignment
+GWAS analysis using plink
